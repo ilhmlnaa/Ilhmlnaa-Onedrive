@@ -44,7 +44,7 @@ module.exports = {
   // the directories in which you have .password set. Check the documentation for details.
   //protectedRoutes: ['SecureFolder', '/🥟 Some test files/Protected route'],
   "protectedRoutes": [
-  "/SecureFolder",
+  "/🔐SecureFolder",
   "ss",
   ],
   // [OPTIONAL] Use "" here if you want to remove this email address from the nav bar.
